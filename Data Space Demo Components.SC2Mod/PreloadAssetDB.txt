@@ -1,0 +1,12 @@
+[Abil]
+id=UnknownAbility
+asset=Assets\Textures\WayPointLine.dds
+asset=Assets\UI\Feedback\WayPointConfirm\WayPointConfirm.m3
+Actor=TerrainMgr
+Alert=AmmoComplete,Error
+
+[Actor]
+id=250mmStrikeCannonsMorph
+Actor=TerrainMgr
+Sound
+

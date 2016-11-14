@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CAbilArmMagazine id="UnknownAbility">
+        <EditorCategories value="AbilityorEffectType:Units"/>
+    </CAbilArmMagazine>
+    <CActorSound id="250mmStrikeCannonsMorph">
+        <AddToProximitySystem value="0"/>
+    </CActorSound>
+</Catalog>
