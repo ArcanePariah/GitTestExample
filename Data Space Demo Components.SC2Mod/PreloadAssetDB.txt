@@ -10,3 +10,10 @@ id=250mmStrikeCannonsMorph
 Actor=TerrainMgr
 Sound
 
+[Unit]
+id=Archon
+Abil=Blink,Mergeable,ProgressRally,attack,move,stop
+Actor=##id##,##id##_Death,BlipVisual,ConfirmationLocalAirAttack,ConfirmationLocalGroundAttack,ConfirmationSyncAirAttack,ConfirmationSyncGroundAttack,ConstructionRefundTextAlly,ConstructionRefundTextEnemy,FlyerShadow,GroundShadow,SalvagedTextAlly,SalvagedTextEnemy,ShieldImpact,TerrainMgr,UnitPointsTextAll
+Button=Attack,Move,MoveHoldPosition,MovePatrol,Rally,Stop
+Weapon=PsionicShockwave
+
